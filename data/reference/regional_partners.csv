@@ -1,0 +1,12 @@
+regional_carrier,regional_name,partner,link_type
+9E,Endeavor Air,DL,wholly_owned
+YV,Mesa Airlines,UA,sole_contract
+C5,CommuteAir,UA,sole_contract
+G7,GoJet Airlines,UA,sole_contract
+OO,SkyWest Airlines,UA,multi_contract
+OO,SkyWest Airlines,DL,multi_contract
+OO,SkyWest Airlines,AA,multi_contract
+OO,SkyWest Airlines,AS,multi_contract
+YX,Republic Airways,UA,multi_contract
+YX,Republic Airways,DL,multi_contract
+YX,Republic Airways,AA,multi_contract

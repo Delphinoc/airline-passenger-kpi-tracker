@@ -1,0 +1,23 @@
+stage,stage_name,airline,year,quarter,metric,estimate,airline_name,reported_value,source_metric_name,gap_pct,classification,gap_change_q1_to_q2_pp
+4,+ hub-allocated multi-contract regionals,B6,2024,1,asm,16315.534,JetBlue,16313,ASMs [6M 33200 - 2Q 16887],0.016,match (within 1%),0.008
+4,+ hub-allocated multi-contract regionals,B6,2024,2,asm,16890.906,JetBlue,16887,ASMs,0.023,match (within 1%),0.008
+4,+ hub-allocated multi-contract regionals,B6,2024,1,passengers,9610.815,JetBlue,9584,Revenue passengers (thousands) [1Q release; 6M-2Q gives 9585],0.28,match (within 1%),0.099
+4,+ hub-allocated multi-contract regionals,B6,2024,2,passengers,10414.345,JetBlue,10375,Revenue passengers (thousands),0.379,match (within 1%),0.099
+4,+ hub-allocated multi-contract regionals,B6,2024,1,rpm,13003.946,JetBlue,13002,RPMs [6M 27194 - 2Q 14192],0.015,match (within 1%),0.008
+4,+ hub-allocated multi-contract regionals,B6,2024,2,rpm,14195.271,JetBlue,14192,RPMs,0.023,match (within 1%),0.008
+4,+ hub-allocated multi-contract regionals,DL,2024,1,asm,64605.205,Delta,65542,ASMs [6M 140198 - 2Q 74656],-1.429,data issue: coverage (regional flying T-100 cannot attribute),-0.009
+4,+ hub-allocated multi-contract regionals,DL,2024,2,asm,73582.243,Delta,74656,ASMs,-1.438,data issue: coverage (regional flying T-100 cannot attribute),-0.009
+4,+ hub-allocated multi-contract regionals,DL,2024,1,rpm,53423.833,Delta,54207,RPMs [6M 119448 - 2Q 65241],-1.445,data issue: coverage (regional flying T-100 cannot attribute),-0.016
+4,+ hub-allocated multi-contract regionals,DL,2024,2,rpm,64287.867,Delta,65241,RPMs,-1.461,data issue: coverage (regional flying T-100 cannot attribute),-0.016
+4,+ hub-allocated multi-contract regionals,UA,2024,1,asm,70373.781,United,71668,ASMs [6M 151346 - 2Q 79678],-1.806,data issue: coverage (regional flying T-100 cannot attribute),0.1
+4,+ hub-allocated multi-contract regionals,UA,2024,2,asm,78319.07,United,79678,ASMs,-1.706,data issue: coverage (regional flying T-100 cannot attribute),0.1
+4,+ hub-allocated multi-contract regionals,UA,2024,1,passengers,37073.455,United,39325,Passengers (thousands) [6M 83700 - 2Q 44375],-5.725,data issue: coverage (regional flying T-100 cannot attribute),0.097
+4,+ hub-allocated multi-contract regionals,UA,2024,2,passengers,41877.578,United,44375,Passengers (thousands),-5.628,data issue: coverage (regional flying T-100 cannot attribute),0.097
+4,+ hub-allocated multi-contract regionals,UA,2024,1,rpm,56371.453,United,57427,RPMs [6M 124491 - 2Q 67064],-1.838,data issue: coverage (regional flying T-100 cannot attribute),0.089
+4,+ hub-allocated multi-contract regionals,UA,2024,2,rpm,65890.881,United,67064,RPMs,-1.749,data issue: coverage (regional flying T-100 cannot attribute),0.089
+4,+ hub-allocated multi-contract regionals,WN,2024,1,asm,42254.815,Southwest,42247,ASMs [6M 88497 - 2Q 46250],0.018,match (within 1%),-0.004
+4,+ hub-allocated multi-contract regionals,WN,2024,2,asm,46256.864,Southwest,46250,ASMs,0.015,match (within 1%),-0.004
+4,+ hub-allocated multi-contract regionals,WN,2024,1,passengers,41628.413,Southwest,40897,Enplaned passengers (000s) [6M 88164 - 2Q 47267],1.788,"data issue: passenger-count definition (miles match, counts differ)",-0.651
+4,+ hub-allocated multi-contract regionals,WN,2024,2,passengers,47804.575,Southwest,47267,Enplaned passengers (000s),1.137,"data issue: passenger-count definition (miles match, counts differ)",-0.651
+4,+ hub-allocated multi-contract regionals,WN,2024,1,rpm,33093.193,Southwest,33087,RPMs [6M 71308 - 2Q 38221],0.019,match (within 1%),-0.002
+4,+ hub-allocated multi-contract regionals,WN,2024,2,rpm,38227.25,Southwest,38221,RPMs,0.016,match (within 1%),-0.002

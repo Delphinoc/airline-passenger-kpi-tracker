@@ -1,0 +1,14 @@
+regional_carrier,link_type,airline,rpm_millions,passengers_thousands
+9E,wholly_owned,DL,2971.9,6500.5
+C5,sole_contract,UA,598.0,1499.8
+G7,sole_contract,UA,336.2,1044.2
+OO,multi_contract,AA,1060.9,2159.4
+OO,multi_contract,AS,191.5,341.1
+OO,multi_contract,DL,1789.4,4455.6
+OO,multi_contract,UA,1748.6,3149.2
+OO,multi_contract,UNALLOCATED,4703.7,9669.2
+YV,sole_contract,UA,1610.2,2936.4
+YX,multi_contract,AA,694.3,1335.2
+YX,multi_contract,DL,480.0,734.1
+YX,multi_contract,UA,888.4,1914.4
+YX,multi_contract,UNALLOCATED,2370.6,5082.4

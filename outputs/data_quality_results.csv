@@ -1,0 +1,8 @@
+check_name,rows_flagged,action
+null_keys,0,fail if > 0
+negative_values,0,fail if > 0
+quarter_month_mismatch,0,fail if > 0
+exact_duplicate_rows,0,fail if > 0
+passengers_exceed_seats,44,flag only
+passengers_without_departures,0,flag only
+inconsistent_distance_same_pair,5,flag only

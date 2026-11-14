@@ -1,0 +1,12 @@
+airline,metric,estimated_qoq_growth_pct,reported_qoq_growth_pct,growth_error_pp
+B6,asm,3.527,3.519,0.008
+B6,passengers,8.361,8.253,0.107
+B6,rpm,9.161,9.152,0.009
+DL,asm,13.895,13.906,-0.01
+DL,rpm,20.336,20.355,-0.02
+UA,asm,11.29,11.177,0.114
+UA,passengers,12.958,12.842,0.117
+UA,rpm,16.887,16.781,0.106
+WN,asm,9.471,9.475,-0.004
+WN,passengers,14.836,15.576,-0.739
+WN,rpm,15.514,15.517,-0.003

@@ -1,0 +1,23 @@
+airline,carrier,year,quarter,metric,reported_value,unit,source_metric_name,source
+Southwest,WN,2024,1,passengers,40897,thousands,Enplaned passengers (000s) [6M 88164 - 2Q 47267],https://www.sec.gov/Archives/edgar/data/92380/000009238024000108/er-6302024xerdoc.htm
+Southwest,WN,2024,2,passengers,47267,thousands,Enplaned passengers (000s),https://www.sec.gov/Archives/edgar/data/92380/000009238024000108/er-6302024xerdoc.htm
+Southwest,WN,2024,1,rpm,33087,millions,RPMs [6M 71308 - 2Q 38221],https://www.sec.gov/Archives/edgar/data/92380/000009238024000108/er-6302024xerdoc.htm
+Southwest,WN,2024,2,rpm,38221,millions,RPMs,https://www.sec.gov/Archives/edgar/data/92380/000009238024000108/er-6302024xerdoc.htm
+Southwest,WN,2024,1,asm,42247,millions,ASMs [6M 88497 - 2Q 46250],https://www.sec.gov/Archives/edgar/data/92380/000009238024000108/er-6302024xerdoc.htm
+Southwest,WN,2024,2,asm,46250,millions,ASMs,https://www.sec.gov/Archives/edgar/data/92380/000009238024000108/er-6302024xerdoc.htm
+JetBlue,B6,2024,1,passengers,9584,thousands,Revenue passengers (thousands) [1Q release; 6M-2Q gives 9585],https://www.businesswire.com/news/home/20240423551519/en
+JetBlue,B6,2024,2,passengers,10375,thousands,Revenue passengers (thousands),https://s202.q4cdn.com/853609783/files/doc_financials/2024/q2/e722bdf1-bd56-436a-96fe-00c20704f7b4.pdf
+JetBlue,B6,2024,1,rpm,13002,millions,RPMs [6M 27194 - 2Q 14192],https://s202.q4cdn.com/853609783/files/doc_financials/2024/q2/e722bdf1-bd56-436a-96fe-00c20704f7b4.pdf
+JetBlue,B6,2024,2,rpm,14192,millions,RPMs,https://s202.q4cdn.com/853609783/files/doc_financials/2024/q2/e722bdf1-bd56-436a-96fe-00c20704f7b4.pdf
+JetBlue,B6,2024,1,asm,16313,millions,ASMs [6M 33200 - 2Q 16887],https://s202.q4cdn.com/853609783/files/doc_financials/2024/q2/e722bdf1-bd56-436a-96fe-00c20704f7b4.pdf
+JetBlue,B6,2024,2,asm,16887,millions,ASMs,https://s202.q4cdn.com/853609783/files/doc_financials/2024/q2/e722bdf1-bd56-436a-96fe-00c20704f7b4.pdf
+United,UA,2024,1,passengers,39325,thousands,Passengers (thousands) [6M 83700 - 2Q 44375],https://www.sec.gov/Archives/edgar/data/0000100517/000010051724000117/ual_06302024erex991.htm
+United,UA,2024,2,passengers,44375,thousands,Passengers (thousands),https://www.sec.gov/Archives/edgar/data/0000100517/000010051724000117/ual_06302024erex991.htm
+United,UA,2024,1,rpm,57427,millions,RPMs [6M 124491 - 2Q 67064],https://www.sec.gov/Archives/edgar/data/0000100517/000010051724000117/ual_06302024erex991.htm
+United,UA,2024,2,rpm,67064,millions,RPMs,https://www.sec.gov/Archives/edgar/data/0000100517/000010051724000117/ual_06302024erex991.htm
+United,UA,2024,1,asm,71668,millions,ASMs [6M 151346 - 2Q 79678],https://www.sec.gov/Archives/edgar/data/0000100517/000010051724000117/ual_06302024erex991.htm
+United,UA,2024,2,asm,79678,millions,ASMs,https://www.sec.gov/Archives/edgar/data/0000100517/000010051724000117/ual_06302024erex991.htm
+Delta,DL,2024,1,rpm,54207,millions,RPMs [6M 119448 - 2Q 65241],https://www.sec.gov/Archives/edgar/data/27904/000168316824004743/delta_ex9901.htm
+Delta,DL,2024,2,rpm,65241,millions,RPMs,https://www.sec.gov/Archives/edgar/data/27904/000168316824004743/delta_ex9901.htm
+Delta,DL,2024,1,asm,65542,millions,ASMs [6M 140198 - 2Q 74656],https://www.sec.gov/Archives/edgar/data/27904/000168316824004743/delta_ex9901.htm
+Delta,DL,2024,2,asm,74656,millions,ASMs,https://www.sec.gov/Archives/edgar/data/27904/000168316824004743/delta_ex9901.htm
